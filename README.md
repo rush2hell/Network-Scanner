@@ -38,3 +38,8 @@ Here you can secify the range of Port to scan
 python3 network.py -s ['Host_name'] -a ['Start Port'] -z ['End Port']
 ```
 ![port_scan_3rd_feature](https://user-images.githubusercontent.com/47297909/94921538-81846b80-0486-11eb-80a5-5ebbacc5b754.png)
+
+
+## License
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
